@@ -1,0 +1,101 @@
+.ftr-background {
+    background-color: #000000;
+}
+
+.ftr-whitespace {
+    background-color: #FFFFFF;
+    height: 60px;
+    z-index: 5;
+}
+
+.ftr-image {
+    width: 350px;
+    height: 350px;
+    border: 2px solid #FFFFFF;
+    
+}
+#ftr-image{
+    z-index: 11;
+}
+
+.ftr-shopname {
+    text-align: center;
+    color: #FFFFFF;
+    margin: 30px;
+}
+
+.ftr-title {
+    text-align: center;
+    color: #FFFFFF;
+    margin: 40px;
+}
+
+.ftr-li {
+    color: #FFFFFF;
+    margin: 10px;
+}
+
+.ftr-copyright {
+    color: #FFFFFF;
+    margin: 0px 0px 0px 40px;
+}
+
+.ftr-row-media {
+    margin: 40px 40px 40px 0px;
+}
+
+.ftr-media {
+    color: #FFFFFF;
+    margin: 0px 0px 0px 10px;
+    height: 32px;
+    width: 32px;
+}
+
+.container-fluid {
+    margin: 0px;
+    padding: 0px;
+}
+
+footer p {
+    margin: 0px;
+    color: #FFFFFF;
+}
+
+.icon {
+    color: #FFFFFF;
+    height: 16px;
+    width: 16px;
+}
+
+.up-icon {
+    height: 32px;
+    width: 32px;
+    fill: grey;
+}
+.up-icon:hover
+{
+    fill: #00CED1;
+}
+
+#ct-if {
+    list-style-type: none;
+}
+
+#back-to-top {
+    display:none;
+    /* Hidden by default */
+    position: fixed;
+    /* Fixed/sticky position */
+    bottom: 100px;
+    /* Place the button at the bottom of the page */
+    right: 10px;
+    /* Place the button 30px from the right */
+    z-index: 99;
+    /* Make sure it does not overlap */
+    border: none;
+    /* Remove borders */
+
+    cursor: pointer;
+}
+
+footer {margin-top: 80px;}

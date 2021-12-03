@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+/* content */
+
+#xemthem{
+	height: 100px;
+	
+	width: 100px;	
+	border: #000000 2px solid;
+	margin-bottom: 40px ;
+}
+
+#ThongTinT{
+	margin-top: 40px;
+	
+	padding-top: 30px;
+	
+}
+.ttin{
+	text-align: center;
+}
+.setbt{
+	margin-bottom: 50px;
+}
+.morett{
+	height: 60px;
+	width: 60px;
+}
+
